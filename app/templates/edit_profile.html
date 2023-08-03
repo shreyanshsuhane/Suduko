@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+ <!-- Edit profile of the user -->
+    <h1>Edit Profile</h1>
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.username.label }}<br>
+            <span style="color: black;">
+            {{ form.username(size=32) }}</span><br>
+            {% for error in form.username.errors %}
+            <span style="color: darkblue;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.about_me.label }}<br>
+            <span style="color: black;">
+            {{ form.about_me(cols=50, rows=4) }}</span><br>
+            {% for error in form.about_me.errors %}
+            <span style="color: darkblue;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p><span style="color: black;">{{ form.submit() }}</span></p>
+    </form>
+    <!-- Footer-->
+    <div class="footer-basic" >
+        <footer style="background-color:black ; margin-top: 10px;">
+            <br>
+            <ul class="list-inline" style="margin-top: 20px;">
+                <li class="list-inline-item"><a href={{url_for('sudoku')}}>Home</a></li>
+                <li class="list-inline-item"><a href={{url_for('rules')}}>Rules</a></li>
+                <li class="list-inline-item"><a href={{url_for('logout')}}>Logout</a></li>
+            </ul>
+            <div style="color: white; font-weight: bold;">
+                <p class="copyright" > 
+                <h1>Developed by:</h1> Ayush Paudel, Rajat Menon, Shreyansh Suhane, and Saiyra Beri 
+                </p>
+            </div>
+            <br>  
+        </footer>
+    </div> 
+{% endblock %}

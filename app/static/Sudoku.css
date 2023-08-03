@@ -1,0 +1,212 @@
+/* main header styling*/
+h1 {
+    text-align: center;
+}
+
+/* for hiding certain elements */
+.hidden {
+    display: none;
+}
+
+/* for hiding more elements*/
+.hidden2 {
+    display: none;
+}
+
+/* change color on mouse hover*/
+.nav_links a:hover {
+    background: #ddd;
+    color: black;
+}
+
+/* nav bar distance from top of screen */
+#nav {
+    margin-top: -5px;
+}
+
+/* text in login forms to be white*/
+.register_login {
+    color: white;
+}
+
+/* stylig general design of pages */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+
+/*line break*/
+hr {
+    width: 500px;
+}
+
+/* error counter dark blue*/
+#errors {
+    color: darkblue;
+}
+
+/* board design*/
+#board {
+    width: 450px;
+    height: 450px;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* tile design*/
+.tile {
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(2, 0, 0);
+    background-color: rgba(16, 14, 20, 0.369);
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* tile change colour on mouse hover*/
+.tile:hover {
+    background-color: rgb(34, 10, 83)
+}
+
+/* numbers to select from 
+bottom to place on board*/
+#digits {
+    width: 440px;
+    height: 50px;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+    background-color: lightskyblue;
+}
+
+/*styling border of bottom numbers*/
+.number {
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(0, 0, 0, 0.371);
+    margin: 2px;
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+/* bottom number board changes color
+mouse hover*/
+.number:hover {
+    background-color: rgba(26, 5, 255, 0.67);
+}
+
+/* button style*/
+.button {
+    background-color: rgba(0, 0, 255, 0.573);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/*mouse hover over button effects*/
+.button:hover {
+    background-color: rgb(0, 13, 255);
+    color: rgb(255, 255, 255);
+}
+
+/*selecting number to add, mouse hover effects*/
+.number-selected:hover {
+    background-color: rgba(97, 1, 30, 0.76);
+}
+
+.tile-start {
+    background-color: rgba(0, 141, 248, 0.296);
+}
+
+/*horizontal and vertical bold lines
+to separate 3x3 boxes*/
+
+.horizontal-line {
+    border-bottom: 4px solid black;
+}
+
+.vertical-line {
+    border-right: 4px solid black;
+}
+
+/*main text*/
+.main-page-text {
+    color: white;
+}
+
+
+#no_acc {
+    font-size: 22px;
+}
+
+/*text on rules page*/
+.rules {
+    color: lightskyblue;
+}
+
+/*text style for results*/
+#results {
+    color: white;
+    font-size: large;
+}
+
+/* after clicking, on mouse lift,
+number tile changes color*/
+.number-selected {
+    background-color: rgb(8, 0, 255);
+    color: yellowgreen;
+}
+
+/*login box left side*/
+.welcome {
+    width: 500px;
+    height: 350px;
+    background-color: whitesmoke;
+    float: left;
+    border-radius: 30px 0px 0px 30px;
+    margin-top: 90px;
+    margin-left: 180px;
+}
+
+/*login box right side*/
+.login {
+    width: 500px;
+    background-color: darkblue;
+    margin-top: 90px;
+    float: left;
+    border-radius: 0px 30px 30px 0px;
+    height: 350px;
+}
+
+/*user profile content centred*/
+#user_content {
+    margin-left: auto;
+    margin-right: auto;
+}

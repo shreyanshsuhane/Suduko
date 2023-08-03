@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% block content %}
+<header>
+    <div class="grid-container-h">
+        <div id="SR">Sudoku Puzzle</div>
+    </div>
+    <div id="diff">
+        <!-- Represents various difficulties level in sudoku -->
+        <h3>Choose Difficulty:</h3>
+       <label><input id="EZ" type="radio" name="diff" value="easy" checked/>Easy</label>
+       <label><input id="MED" type="radio" name="diff" value="medium" />Medium</label>
+       <label><input id="HRD" type="radio" name="diff" value="hard" />Hard</label>
+    </div>
+    <button id="start-btn" class="button">Play</button>
+</header>
+<body >
+    <div>
+        <div class="Jumbotron">
+            <h2 class="main-page-text">{{user}}</h2>
+        </div>
+        <!-- Set the timing for the game -->
+        <h2 class="main-page-text">
+            <div id="time" class="hidden">00:00:00</div>
+            <div id="error" class="hidden">Errors: <span id="errors">0</span></div>
+        </h2>
+        <!-- Sudoku board -->
+        <div id="board"></div>
+        <br>
+        <!-- Random digit creator for the board -->
+        <div id="digits"></div>
+    </div>
+    <br>
+    <div id='buttonSub' class='hidden2'><button id="finish-btn" class="button">Submit</button></div>
+    <hr>
+    <div id="Results" class="content">
+        <h2 id="h1">Results</h2>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer-basic" >
+        <footer style="background-color:black ; margin-top: 10px;">
+            <br>
+            <ul class="list-inline" style="margin-top: 20px;">
+                <li class="list-inline-item"><a href={{url_for('sudoku')}}>Home</a></li>
+                <li class="list-inline-item"><a href={{url_for('rules')}}>Rules</a></li>
+                <li class="list-inline-item"><a href={{url_for('logout')}}>Logout</a></li>
+                
+            </ul>
+            <div style="color: white; font-weight: bold;">
+                <p class="copyright" > 
+                <h1>Developed by:</h1> Ayush Paudel, Rajat Menon, Shreyansh Suhane, and Saiyra Beri </p>
+            </div>
+            <br>
+            
+            
+        </footer>
+    </div> 
+<script src="static/Timer.js">
+</script>
+    
+{% endblock %}

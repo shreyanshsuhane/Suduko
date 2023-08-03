@@ -1,0 +1,939 @@
+* commit 913fd263c6202fa6fc220008da406aba3f13d9ca (HEAD -> master, origin/master, origin/HEAD)
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 03:05:58 2022 +0800
+| 
+|     readme
+| 
+* commit 54746065cf64c14001ac3bd80e1aa8ed941a54e6
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 03:01:15 2022 +0800
+| 
+|     readme
+| 
+* commit ded316672dd64294fb98482dd79854f9424c8405
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:59:06 2022 +0800
+| 
+|     readme
+| 
+* commit 50015f3404436d0a59f16b182fe16b31c9824ff5
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:51:08 2022 +0800
+| 
+|     readme
+| 
+* commit 8ebb467775a0bb2d92d8407a34889c14af90e266
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:35:06 2022 +0800
+| 
+|     readme
+| 
+* commit 72404c82e43974a8698e132aca2362b9bf6bdaec
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:30:50 2022 +0800
+| 
+|     readme
+| 
+* commit 7987ea4401e1f8ec04023f8f723fbd54d9c1a0a1
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:25:09 2022 +0800
+| 
+|     readme
+| 
+* commit 5b5288f297214e1345acc9ec6964b7e96c79f139
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:21:22 2022 +0800
+| 
+|     readme
+| 
+* commit 5ed3d684a0d56acb6049ae0d32c15a385123128f
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:06:32 2022 +0800
+| 
+|     readme testing heading
+| 
+* commit 8bd7417d37d8445133a92a8c64569b1bb31deb65
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:05:10 2022 +0800
+| 
+|     readme.md
+| 
+* commit edc2d7ee62d4282687efafa29b1a2bf15f83432c
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 02:03:53 2022 +0800
+| 
+|     readme
+| 
+* commit 3ba9a35d356fb9a5df64a33c9693c31997cd4268
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Mon May 23 01:58:31 2022 +0800
+| 
+|     finalising
+|   
+*   commit 2a1022f06b8fd080faca629c189856281f46d5cb
+|\  Merge: d65eb8f ca03b18
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 23 00:48:25 2022 +0800
+| | 
+| |     fixing issue
+| |   
+| *   commit ca03b184e2c234012becf3cee3f4ba4d2279bc59
+| |\  Merge: 7685267 a9ff547
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 22:13:24 2022 +0530
+| | | 
+| | |     ok2
+| | | 
+| * | commit 768526749e7e68f647f2967d38b4362aece741cc
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 22:10:07 2022 +0530
+| | | 
+| | |     adding results and css for it
+| | | 
+* | | commit d65eb8f0890c3fbe84fdf22d8fd3fd28950d396c
+| |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/|   Date:   Mon May 23 00:47:37 2022 +0800
+| |   
+| |       commenting
+| | 
+* | commit a9ff547b51b0e4883f2280b6965382cd98b6cdae
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 22 23:51:24 2022 +0800
+| | 
+| |     fixing login box
+| | 
+* | commit 3894feb114adb3c193376d1d926d06eb6010fefc
+|/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|   Date:   Sun May 22 23:30:41 2022 +0800
+|   
+|       general changes
+|   
+*   commit 8a7d1ab4c3d635069889c726733d26a0387338e2
+|\  Merge: 210e220 97a62f5
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 22 23:11:12 2022 +0800
+| | 
+| |     app.db issue
+| | 
+| * commit 97a62f532d29f85bad7b04704b91eb3d780e9ba1
+| | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | Date:   Sun May 22 20:39:19 2022 +0530
+| | 
+| |     submit button
+| |   
+| *   commit 767c9f40ecd576d4cabf987fd95816bba1b489df
+| |\  Merge: 9c28c59 07594db
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 19:14:50 2022 +0530
+| | | 
+| | |     app.db2
+| | | 
+| * | commit 9c28c59374b275731b95df5078433a4cb469fd62
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 19:13:58 2022 +0530
+| | | 
+| | |     app.db
+| | | 
+* | | commit 210e220404c6a56bbab14431ec1ce8bab5fe8a66
+| |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/|   Date:   Sun May 22 23:10:38 2022 +0800
+| |   
+| |       stuff
+| | 
+* | commit 07594dbe4ed41650f955dfa45597b7b4f8c99427
+|\| Merge: ea5cc78 b2c0e9f
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 22 21:40:37 2022 +0800
+| | 
+| |     fixing merge
+| |   
+| *   commit b2c0e9f60877fa5fd6bc6b59d3bea1f7bb281dee
+| |\  Merge: 2378d61 1e730ba
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 19:06:24 2022 +0530
+| | | 
+| | |     merge
+| | | 
+| * | commit 2378d61fe4e284e29b4108b2ca4e84dfb9d5066e
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sun May 22 19:03:15 2022 +0530
+| | | 
+| | |     Working Timer and css for button
+| | | 
+* | | commit ea5cc78c6096acaa6ff5cde79cf653c113c56614
+| |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/|   Date:   Sun May 22 21:33:14 2022 +0800
+| |   
+| |       lots of changes
+| | 
+* | commit 1e730bae069f28875c15c6b0f3ed916560e66769
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 22 13:51:22 2022 +0800
+| | 
+| |     app.db
+| | 
+* | commit 0d6e121a264c00896506c82b93ec8f2a8709c855
+|\| Merge: 881a334 5362687
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 22 13:47:22 2022 +0800
+| | 
+| |     fixing merge
+| |   
+| *   commit 5362687e927cd42b61982151864dd6798946bf09
+| |\  Merge: 5ff6299 1cc228d
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sat May 21 22:19:56 2022 +0530
+| | | 
+| | |     ok2
+| | |   
+| * |   commit 5ff6299887ab3c83c72ff05eeb3ed294951d9fbe
+| |\ \  Merge: 6cc7f00 a13d978
+| | | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | | Date:   Sat May 21 22:17:22 2022 +0530
+| | | | 
+| | | |     ok
+| | | | 
+* | | | commit 881a3348358640a5fd4bfb392696fddd1a534fd5
+| |_|/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/| |   Date:   Sun May 22 13:46:07 2022 +0800
+| | |   
+| | |       updating Stats class
+| | | 
+* | | commit 1cc228d642563e0657dfc88e5257971f91c265e7
+| |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/|   Date:   Sun May 22 00:46:02 2022 +0800
+| |   
+| |       creating stats page
+| | 
+* | commit a13d978a132b8ee87541ca066a300c461901befc
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 23:42:41 2022 +0800
+| | 
+| |     safe push
+| | 
+* | commit eedb93283382b438ef60a2f6e915f9db4603b844
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 22:59:50 2022 +0800
+| | 
+| |     adding general files
+| | 
+* | commit e02a78df597d96f6768138c0bd3abd9e2db3d714
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 22:51:54 2022 +0800
+| | 
+| |     commit list of changes
+| | 
+* | commit 3061ea2b1ba3d85ae92e8c50b35690030c7d5d9a
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 22:31:42 2022 +0800
+| | 
+| |     sudoku.js updated
+| |   
+* |   commit 5c938b225c0325b25a2204d9876347a7ef171247
+|\ \  Merge: 52534fd 9ae67a2
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Sat May 21 22:30:22 2022 +0800
+| | | 
+| | |     fixing merge
+| | | 
+| * | commit 9ae67a22713a55aa49e730356265cc130f7e39bd
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 22:24:13 2022 +0800
+| | | 
+| | |     js changes
+| | | 
+| * | commit b0d23a0c0fd5cef0dfad78f1eb0111ec277744c7
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 22:21:38 2022 +0800
+| | | 
+| | |     nav bar change
+| | | 
+| * | commit c716f1c0518b0d720d777f84435cd27dc9ce6cd6
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 22:19:29 2022 +0800
+| | | 
+| | |     Login CSS update
+| | | 
+| * | commit a309c43afa5bb5881aa7301099bb3b55953c5e39
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 22:16:16 2022 +0800
+| | | 
+| | |     Navigation links
+| | | 
+| * | commit a7ec0d03f162d8b45926850b92eca8eacb8009e9
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 22:12:50 2022 +0800
+| | | 
+| | |     Navigation links
+| | | 
+| * | commit e83aed30d1e121abf87dae6394c296d95d465f70
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 21:53:13 2022 +0800
+| | | 
+| | |     Updating edit profile html page
+| | | 
+| * | commit 99bcd1fb0478e6e4791cd753033547ecf0d53f27
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 21:51:47 2022 +0800
+| | | 
+| | |     Updating user html page
+| | | 
+| * | commit 77f0c05e420559d900d2532363e2e43eee99191f
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 21:45:39 2022 +0800
+| | | 
+| | |     Adding comments
+| | | 
+* | | commit 52534fd808f63c71844a5cf66979a250165434c6
+|/ /  Author: Rajat Menon <22711531@student.uwa.edu.au>
+| |   Date:   Sat May 21 22:29:25 2022 +0800
+| |   
+| |       updating tests
+| | 
+* | commit 5bade7a3ea6638c17b3a65be6260aa8cdae0557b
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 20:38:20 2022 +0800
+| | 
+| |     adding footers
+| |   
+| | * commit 205328268f2dc429ea0f24bb8060f7f8c3998340 (origin/working_project)
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| |   Date:   Sat May 21 22:14:18 2022 +0530
+| |   
+| |       experimenting
+| |   
+| *   commit 6cc7f006b1bf6899be221443439bfd54a8f37bda
+| |\  Merge: a08a825 1111a12
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|/|   Date:   Sat May 21 22:10:17 2022 +0530
+| |   
+| |       minor bug fix
+| |   
+* |   commit 1111a123170d0ffb5f934090184a4ddeac726972
+|\ \  Merge: 5496dec da1f5bb
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Sat May 21 19:24:37 2022 +0800
+| | | 
+| | |     fixing app.db issue
+| | | 
+* | | commit 5496dec6915038d098d1cd8cb86cf74dbfa82fee
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Sat May 21 19:22:55 2022 +0800
+| | | 
+| | |     app.db
+| | | 
+| | * commit a08a82583bfd2813ae29ee34072ff3546da44828
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| |   Date:   Sat May 21 18:07:31 2022 +0530
+| |   
+| |       fixing error
+| | 
+| * commit da1f5bb13503932cef5b06d967db660dc400a629
+| | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | Date:   Sat May 21 16:51:39 2022 +0530
+| | 
+| |     correcting my name
+| |   
+| *   commit 8d6e54ec8ddb209e9a034dc6f9967276ff06ae80
+| |\  Merge: 15a2c61 ebc4a2b
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Sat May 21 16:49:01 2022 +0530
+| | | 
+| | |     Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | |   
+| | *   commit ebc4a2b0d5b6c1b5a9b170db0b1d56cc52540ff2
+| | |\  Merge: 99c6504 77a00d7
+| |_|/  Author: Saiyra <ssaiyra1@gmail.com>
+|/| |   Date:   Sat May 21 19:12:04 2022 +0800
+| | |   
+| | |       Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | | 
+| | * commit 99c6504e5c400d43288faca4bcddb995f879e26f
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 19:11:24 2022 +0800
+| | | 
+| | |     Change
+| | |   
+| * |   commit 15a2c61f7ce5b26a1a48f95a3b4d359ed807bef3
+| |\ \  Merge: db76d19 77a00d7
+| |/ /  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|/| |   Date:   Sat May 21 16:43:08 2022 +0530
+| | |   
+| | |       merging
+| | |   
+* | |   commit 77a00d7a9c83c8244783ceb096d77fa69e0db137
+|\ \ \  Merge: 361a8ab 20b457e
+| | |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+| |/|   Date:   Sat May 21 19:01:42 2022 +0800
+| | |   
+| | |       fixing merge issue
+| | | 
+* | | commit 361a8ab4919b9525d10ff78626222dc1c6d3a5b8
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Sat May 21 18:54:14 2022 +0800
+| | | 
+| | |     stats.html name change
+| | |   
+| | *   commit db76d195449b6fb53b83d7e13a0b1020877dc1b8
+| | |\  Merge: 6aedf78 20b457e
+| | |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| |/|   Date:   Sat May 21 16:33:40 2022 +0530
+| | |   
+| | |       merge fix
+| | | 
+| * | commit 20b457e22cfe5fce07510aeeba1216a2b4271e25
+|/ /  Author: Saiyra <ssaiyra1@gmail.com>
+| |   Date:   Sat May 21 18:06:45 2022 +0800
+| |   
+| |       Footer Update
+| | 
+| * commit 6aedf78bb926f85914a182e04d7fddf4deee6176
+|/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|   Date:   Sat May 21 16:08:12 2022 +0530
+|   
+|       misc
+|   
+*   commit 8bfa1845bbcd26178eb689775c5060ee3eb62fb4
+|\  Merge: c98ac33 6045808
+| | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | Date:   Sat May 21 15:00:49 2022 +0530
+| | 
+| |     adding sounds, updated css, major error fixed and cleaning
+| |   
+| *   commit 6045808edf401519744fca91be08f9c716ea1db4
+| |\  Merge: a7c00aa 2fbac79
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 17:05:53 2022 +0800
+| | | 
+| | |     Daily Challenge
+| | | 
+| * | commit a7c00aa429a0119be4b6d40b08368ac6cd491c92
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Sat May 21 17:03:50 2022 +0800
+| | | 
+| | |     Daily Challenge
+| | | 
+* | | commit c98ac332bf6ce4a61cb670bf8a48c374a53d1a1a
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|/|   Date:   Sat May 21 14:58:42 2022 +0530
+| |   
+| |       adding sounds, updated css, major error fixed and cleaning
+| | 
+* | commit 2fbac7993fa5cbaa62b17d318a006807ea3ea32f
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 14:10:01 2022 +0800
+| | 
+| |     adding Tests
+| | 
+* | commit da854bf7f539722f6e4533d6c35dfee97d814aa1
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 11:38:51 2022 +0800
+| | 
+| |     new log.txt
+| | 
+* | commit 97158f1e69282a5f56187c8a1b29deb52ed10384
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 11:13:08 2022 +0800
+| | 
+| |     log.txt debugging
+| | 
+* | commit 5464fc8e9acff18fe7c3ae616a71ab26c712b77a
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sat May 21 10:58:48 2022 +0800
+| | 
+| |     log.txt
+| | 
+* | commit d7f017888eb43e0f573dbaf66e506c8110d9f568
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 23:02:26 2022 +0800
+| | 
+| |     fixing styles
+| |   
+* |   commit 72e34c4e3abef0563e6fe1d417700e58d0568148
+|\ \  Merge: 7c96b62 2c2251f
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Fri May 20 20:10:15 2022 +0530
+| | | 
+| | |     updated grid with levels
+| | | 
+| * | commit 2c2251f49e3c7f53dd499fcbbb77bda3785f811f
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Fri May 20 22:34:36 2022 +0800
+| | | 
+| | |     facebook share icon
+| | |   
+* | |   commit 7c96b628861d683954a804fafea0fa7af0f28572
+|\ \ \  Merge: 1590ad7 d2e4bd6
+| |/ /  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|/| |   Date:   Fri May 20 20:09:11 2022 +0530
+| | |   
+| | |       updated grid with levels
+| | | 
+| * | commit d2e4bd679dff8a5956ba4f2e539e872bc227ffaa (origin/Sud2)
+| | | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | | Date:   Fri May 20 19:51:08 2022 +0530
+| | | 
+| | |     levels D
+| | | 
+* | | commit 1590ad74b8248b398f34839d9e4d91409295b8f0
+| |/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|/|   Date:   Fri May 20 20:55:36 2022 +0800
+| |   
+| |       general update
+| | 
+* | commit 53e896096a73a736ce1d4f963648915a3c65c475
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 17:54:35 2022 +0800
+| | 
+| |     error handling
+| | 
+* | commit d1f99f211e1098cbb2628389ff8841aac60e8790
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 16:52:51 2022 +0800
+| | 
+| |     errors
+| | 
+* | commit 63c2de59d80308b35329e4d32250439c9f9026d2
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 16:34:22 2022 +0800
+| | 
+| |     creating edit profile page
+| | 
+* | commit 0b531a588ada08f2059f182c1f276d5fe02d9091
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 13:47:49 2022 +0800
+| | 
+| |     deleting jpg img
+| | 
+* | commit 4a09b7abe2ab3ec329db54149fd05c7bdf8b2901
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 13:38:54 2022 +0800
+| | 
+| |     adding updates
+| | 
+* | commit 20f276f51e840643ba7edd47b23fe1420ae1cc97
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 13:18:16 2022 +0800
+| | 
+| |     general update
+| | 
+* | commit 163b6c578e5370b42f951968074809d7b338cb7d
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Fri May 20 12:50:40 2022 +0800
+| | 
+| |     smoothing out login page
+| |   
+* |   commit ba7bdc9c2db479ab96255832e00c55ae2e8ec05e
+|\ \  Merge: e4264a5 d9dd40e
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Fri May 20 12:39:11 2022 +0800
+| | | 
+| | |     Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | | 
+| * | commit d9dd40ec8a70ec482ad2430bb9f1d05d9ddfe791
+| |/  Author: Saiyra <ssaiyra1@gmail.com>
+| |   Date:   Fri May 20 00:09:43 2022 +0800
+| |   
+| |       Login page
+| | 
+* | commit e4264a5bafd6f29ff1009e9e33fb93ab046dca6f
+|/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|   Date:   Fri May 20 12:37:44 2022 +0800
+|   
+|       routes update
+| 
+* commit e9ec68482a21889b2669379db00b33b0300694aa
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Thu May 19 21:07:36 2022 +0800
+| 
+|     profile login identicons
+| 
+* commit e07596eb8ebf8302760852cc4cfa2d97beca36f9
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 18 18:48:32 2022 +0800
+| 
+|     fixing bugs
+| 
+* commit bd3cae471a3f839a08abb9715010f64051af4150
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 18 18:38:26 2022 +0800
+| 
+|     updating background and user mention
+| 
+* commit ef08fef454403ca27ed15fa7d049de167653cee1
+| Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| Date:   Wed May 18 15:31:55 2022 +0530
+| 
+|     adding rules page
+| 
+* commit 34f08092c01020471fc555b325f8a01821e15dd7
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 18 17:24:16 2022 +0800
+| 
+|     testing
+| 
+* commit 38a8a6c5ec4a8a389ae8ac410370edf02d856bec
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 18 16:36:50 2022 +0800
+| 
+|     cleaning html
+|   
+| * commit 7e887be1752fa05a7e95d579ff2f493ed80f1db4 (origin/rules)
+|/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|   Date:   Wed May 18 14:10:45 2022 +0530
+|   
+|       new branch rules
+| 
+* commit ae38587e98310a24221232585d0f530d9c326bc4
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 17 14:52:52 2022 +0800
+| 
+|     moving README.md into main folder
+| 
+* commit b2b80e6aa22ea12c02d6b3817bd792951f3d3c6a
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 17 14:49:46 2022 +0800
+| 
+|     update css
+| 
+* commit 82ec9e70f4632e46f27e3eaddb0756e5232b2121
+| Author: Ayush Paudel <paudelayush@192-168-1-120.tpgi.com.au>
+| Date:   Tue May 17 11:34:58 2022 +0800
+| 
+|     Updating Readme
+|     
+| *   commit 27def6ad5b9973ef8405bcaf742ce317a6ed98a5 (origin/timer)
+| |\  Merge: e37403d b1e0d95
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|/|   Date:   Mon May 16 18:18:37 2022 +0530
+| |   
+| |       merging
+| | 
+* | commit b1e0d95267ae2d5f217b58b55984155992f27871
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 17:19:23 2022 +0800
+| | 
+| |     changed background etc.
+| | 
+* | commit 8d348a8d5504f34bf9639ba83349d4e0223e14c2
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 14:20:00 2022 +0800
+| | 
+| |     completed regristration form (all bugs fixed)
+| | 
+* | commit 2159d44e2f59dd1e933d50c6c22112ef56c3ceb9
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 14:11:11 2022 +0800
+| | 
+| |     fixing set_password issue
+| | 
+* | commit dc9982f652478ae0122eea00495b00ec9f243755
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 13:49:27 2022 +0800
+| | 
+| |     finalising regristration form
+| | 
+* | commit d3efeb1aeba924ea3331af7cf9740002eda29722
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 13:07:46 2022 +0800
+| | 
+| |     creating login/registration, html/css extra
+| | 
+* | commit 421c89be6e1eda648d53a08d76e060b454e62ce0
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 16 12:37:30 2022 +0800
+| | 
+| |     updating models.py and sudoku.py
+| | 
+| * commit e37403d686bb1ab9cdbcc74d41f712efc0503ef4
+| | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | Date:   Mon May 16 18:15:38 2022 +0530
+| | 
+| |     timer-shreyansh
+| | 
+| * commit 96c491de102e897a754b8bc109eb9ef0c86cceb1
+|/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+|   Date:   Mon May 16 03:20:43 2022 +0530
+|   
+|       timer_shreyansh
+| 
+* commit ff3c8fa691c6cf62cfa791cdeb2d7b4ead8bd589
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sun May 15 20:47:05 2022 +0800
+| 
+|     DB addition and rules.html creation
+| 
+* commit a7adcde4a5492d549e0ab0ecf09b14d74a8edd01
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sun May 15 13:15:27 2022 +0800
+| 
+|     adding migrations directory
+|   
+| * commit c47cff27c2a01c77cb132cdcecc6194758dba48e (origin/flask, flask)
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Sun May 15 12:56:17 2022 +0800
+| | 
+| |     log.txt
+| | 
+| * commit 63d269ebf34795946d84718312d2fe62aa0fc81f
+|/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|   Date:   Sun May 15 12:55:08 2022 +0800
+|   
+|       updating files
+| 
+* commit 0395b810c0bac2768258037b54bcd44a1b8edc00
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 15:05:25 2022 +0800
+| 
+|     log.txt
+| 
+* commit 8c931b53d4559f3a63987b00893937f05ea65ccd
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 15:04:34 2022 +0800
+| 
+|     Update log.txt
+| 
+* commit f751ea8c34f3e1c4884552cb6f6a8e611dbc66ea
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 15:01:33 2022 +0800
+| 
+|     merge flask branch updates
+| 
+* commit 8ae1ff7ecf3e6940d196fa0963e0945e02eac052
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 14:54:17 2022 +0800
+| 
+|     updating log.txt
+| 
+* commit 44f1ef0fe5a9bba1841a37eb08014166eb3e73de
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 14:46:58 2022 +0800
+| 
+|     Running webpage through flask app
+| 
+* commit 24de09e7bad49a71ad428c86d1e619e224dc3119
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Sat May 14 12:01:33 2022 +0800
+| 
+|     updating .gitignore file
+| 
+* commit 3fcdd866f84d319807155ff6fa0967d76057145a
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Sat May 7 00:40:03 2022 +0800
+| 
+|     error changes
+| 
+* commit 81c46d58d9f40cee271f0e5d964aacec8e8606ab
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Sat May 7 00:36:48 2022 +0800
+| 
+|     error changes
+| 
+* commit a8fcf007840ed365369d9a91711176513a445837
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Sat May 7 00:27:51 2022 +0800
+| 
+|     error changes
+|   
+*   commit b1853c3ae2f9fc8f4a8825bd1460ca32d70e8f66
+|\  Merge: 61d8fcc dc211d6
+| | Author: Saiyra <ssaiyra1@gmail.com>
+| | Date:   Sat May 7 00:25:23 2022 +0800
+| | 
+| |     background color
+| | 
+| * commit dc211d610a78987868124dc58f2f4fe75bc88f59
+| | Author: Rajat Menon <rajat@Rajats-MacBook-Air.local>
+| | Date:   Fri May 6 14:17:13 2022 +0800
+| | 
+| |     updated git log.txt
+| | 
+| * commit f452d943bbcdfd3ceffb45e3ada899b20246bb4c
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Thu May 5 22:29:49 2022 +0800
+| | 
+| |     footnote update
+| | 
+| * commit c018c94fa7fd4c1aeb583efa31acee0fef6eec38
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Thu May 5 22:10:04 2022 +0800
+| | 
+| |     log.txt
+| | 
+| * commit 21e2c8cbf74529ce5b38eb0aa2da44c2277e4080
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Thu May 5 21:42:22 2022 +0800
+| | 
+| |     adding 'errors' word
+| | 
+* | commit 61d8fcc08571e6a6e03346aaa699ffa8ec9153c7
+|/  Author: Saiyra <ssaiyra1@gmail.com>
+|   Date:   Sat May 7 00:22:34 2022 +0800
+|   
+|       background color
+| 
+* commit bd672e3a001e9a91db2267c01fb27b92ed80fd27
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Thu May 5 00:43:13 2022 +0800
+| 
+|     Footer
+| 
+* commit 3020658b93b3349f14c58776be6e5996338a7895
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Thu May 5 00:19:22 2022 +0800
+| 
+|     Footer
+| 
+* commit 41118b269f157f446b979362fff99ed581d1a643
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Thu May 5 00:14:49 2022 +0800
+| 
+|     Navigation bar
+| 
+* commit 875a6b808182a241831cfa9791c483616f5f6458
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 4 18:37:15 2022 +0800
+| 
+|     updating tile colours css
+| 
+* commit 4c8436476b1ed6316fed19fbb0b1b4c47146adfc
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 4 18:19:53 2022 +0800
+| 
+|     log.txt update
+| 
+* commit 8c44ea435dad629a0ceb348da44f4784c5046c85
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Wed May 4 18:14:11 2022 +0800
+| 
+|     Fixing css file issue
+|   
+*   commit 39142d232d3f516ffe82a7682d1f93b663d597d1
+|\  Merge: c396f92 ad8eb22
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Wed May 4 18:01:27 2022 +0800
+| | 
+| |     Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | 
+| * commit ad8eb226a9aa5db7aca696b733cc998708bafa95
+| | Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| | Date:   Wed May 4 15:06:36 2022 +0530
+| | 
+| |     changing the background
+| | 
+* | commit c396f92c52da71a529b56cee27455bec12e0813e
+|/  Author: Rajat Menon <22711531@student.uwa.edu.au>
+|   Date:   Wed May 4 18:01:08 2022 +0800
+|   
+|       Adding log.txt and html/css updates
+| 
+* commit 076c201316286fc697243e19df404e2834a010c8
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Wed May 4 17:01:01 2022 +0800
+| 
+|     9x9 board
+| 
+* commit 8c342a481f084d5348ffcc0c84a4a8eb566a6bd6
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Wed May 4 16:53:35 2022 +0800
+| 
+|     H1 tag
+| 
+* commit ad3f9b180894a80b75748f9833879278a5790457
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 3 14:29:18 2022 +0800
+| 
+|     updating README file
+| 
+* commit 832616db9e1f92107a0f6e3e4fcc5f82a19e7bbb
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 3 14:27:34 2022 +0800
+| 
+|     clearing css file
+| 
+* commit a0a1af385d4d9c22bf5e5fa55ed30278d0e96f8d
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 3 14:27:07 2022 +0800
+| 
+|     clearing js file
+| 
+* commit e3591c9f29976d2eadb56c2b904abcb5d2d52f51
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue May 3 14:26:13 2022 +0800
+| 
+|     Adding .gitignore file
+| 
+* commit e3dd22397d31c0d1f71a1548466ea6689daa488c
+| Author: Saiyra <ssaiyra1@gmail.com>
+| Date:   Tue May 3 12:19:11 2022 +0800
+| 
+|     HTML
+|   
+*   commit 53a0a3ac6620c6386a9749313ac880646ed6de0e
+|\  Merge: fd9aa75 2f44302
+| | Author: Saiyra <ssaiyra1@gmail.com>
+| | Date:   Tue May 3 12:16:55 2022 +0800
+| | 
+| |     HTML
+| | 
+| * commit 2f4430237ce00999bc0239368d4038592e69bb38
+| | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | Date:   Mon May 2 14:29:49 2022 +0800
+| | 
+| |     replace favicon image
+| |   
+| *   commit 255764f396502d6e53cfc746e9ad8ffbba6d39a5
+| |\  Merge: da99eb7 d25dd14
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Mon May 2 14:22:33 2022 +0800
+| | | 
+| | |     Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | | 
+| * | commit da99eb788b7195a5d05a6cfb5698fae671a24e4c
+| | | Author: Rajat Menon <22711531@student.uwa.edu.au>
+| | | Date:   Mon May 2 14:21:42 2022 +0800
+| | | 
+| | |     Adding favicon to directory
+| | | 
+* | | commit fd9aa758703229f621c1801fd0b3449de98e354a
+| |/  Author: Saiyra <ssaiyra1@gmail.com>
+|/|   Date:   Tue May 3 12:14:27 2022 +0800
+| |   
+| |       HTML
+| | 
+* | commit d25dd14a967e24d1e3151b8f15a99337e6a6b4a8
+| | Author: Ayush Paudel <paudelayush@Ayushs-MacBook-Pro.local>
+| | Date:   Wed Apr 27 16:40:57 2022 +0800
+| | 
+| |     Ayush
+| |   
+* |   commit e2ba81df80585377c6c9ae6362bf9d27841c16e9
+|\ \  Merge: 8d13146 f678230
+| | | Author: Saiyra <ssaiyra1@gmail.com>
+| | | Date:   Wed Apr 27 16:35:39 2022 +0800
+| | | 
+| | |     Merge branch 'master' of https://github.com/rajatmenon2000/SudokuProject
+| | | 
+| * | commit f67823038ac5fab19fdd4c4e93a46f948942026e
+| |/  Author: shreyanshsuhane <104053965+shreyanshsuhane@users.noreply.github.com>
+| |   Date:   Wed Apr 27 14:02:35 2022 +0530
+| |   
+| |       testing S
+| | 
+* | commit 8d131460a98676f2ffb3a7fd44077c5af75743e3
+|/  Author: Saiyra <ssaiyra1@gmail.com>
+|   Date:   Wed Apr 27 16:35:06 2022 +0800
+|   
+|       Testing Saiyra's GIT
+| 
+* commit 21cc7d6a206bdc589573b2b05e48dd19e882d8b2
+| Author: Rajat Menon <22711531@student.uwa.edu.au>
+| Date:   Tue Apr 26 13:53:00 2022 +0800
+| 
+|     Adding empty files
+| 
+* commit ae6e70078223d51e3c453cd02d9638685c3b0953
+  Author: Rajat Menon <22711531@student.uwa.edu.au>
+  Date:   Tue Apr 26 13:51:35 2022 +0800
+  
+      first commit

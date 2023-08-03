@@ -1,0 +1,66 @@
+  /*Headers container*/
+  .grid-container-h {
+    display: grid;
+    background-color: rgb(1, 2, 40);
+    padding-top: 0%;
+    color: aqua;
+  }
+
+  /*Headers text*/
+  #SR {
+    color: lightskyblue;
+    text-align-last: center;
+    font-size: xxx-large;
+  }
+
+  /*Content container for rules page*/
+  .content {
+    display: grid;
+    background-color: rgb(1, 2, 40);
+    border-radius: 4%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: aqua;
+  }
+
+  #rule {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: white;
+    font-size: xx-large;
+  }
+
+  /*Level 2 header styles*/
+  h2 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+  }
+
+  /*Level 3 header styles*/
+  h3 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+  }
+
+  /*paragraph styles*/
+  p {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: rgb(210, 250, 250);
+    text-align: center;
+    font-size: large;
+  }
+  
+  /*styling images*/
+  img {
+    border-radius: 2.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
